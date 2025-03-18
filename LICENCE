@@ -1,0 +1,7 @@
+
+---
+
+## ✅ **4️⃣ `MANIFEST.in` (Inclure les Fichiers dans PyPI)**  
+
+Assure-toi que **README.md** et **LICENSE** sont bien inclus dans le package distribué sur PyPI.  
+

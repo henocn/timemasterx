@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "TimeMasterX"
+version = "0.1.0"
+authors = [
+  { name="Henoc N'GASAMA", email="ngasamah@gmail.com" },
+]
+description = "Un package avancé pour manipuler le temps, les dates et fuseaux horaires."
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.7"
+dependencies = ["pytz"]
+
+[project.urls]
+Homepage = "https://github.com/henocn/TimeMasterX"
+Documentation = "https://github.com/ton-utilisateur/TimeMasterX/wiki"
+Issues = "https://github.com/henocn/TimeMasterX/issues"
