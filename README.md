@@ -2,7 +2,6 @@
 
 [![PyPI version](https://img.shields.io/pypi/v/TimeMasterX.svg)](https://pypi.org/project/TimeMasterX/)
 [![Licence](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Tests](https://github.com/ton-utilisateur/TimeMasterX/actions/workflows/tests.yml/badge.svg)](https://github.com/ton-utilisateur/TimeMasterX/actions)
 
 ## 🚀 À propos
 TimeMasterX est une bibliothèque avancée pour manipuler les dates, heures et fuseaux horaires en Python.
